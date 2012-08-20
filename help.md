@@ -15,6 +15,10 @@ The file should be called terrain.png for a Modern Minecraft terrain.png
 and terrain.classic.png for a Classic Minecraft texture. This is important
 or things will look very odd.
 
+You can also replace the backgrund in the menu. It looks for two files
+background.png is centered on a black background in the middle of the screen.
+While background.tiled.png is tiled over the screen.
+
 ---
 
 ### Getting more help
