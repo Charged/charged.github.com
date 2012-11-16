@@ -17,8 +17,8 @@ also report bugs and add feature requests [here][Wiki].
 Charged miners is easily installed, you only need to download the launcher,
 which is done through the big [Download][] button on the
 website. Charged miners needs a texture pack, but it can get that from the
-minecraft on your computer. If it says it cannot find one, go to
-[minecraft.net][MCPlay] and play minecraft classic,
+Minecraft on your computer. If it says it cannot find one, go to
+[minecraft.net][MCPlay] and play Minecraft classic,
 this gives charged-miners all it needs.
 
 ### Play
@@ -26,15 +26,15 @@ this gives charged-miners all it needs.
 #### Launcher
 
 The launcher provides many options to connect, the most basic of which is
-"Sign In", entering a username and password gives you a serverlist from which
-you can pick the one you want. If you were handed an url to join you can paste
+"Sign In", entering a username and password gives you a server list from which
+you can pick the one you want. If you were handed an URL to join you can paste
 that in the obvious field to join the server immediately.
 
 Useful is the "Resume" tab when you play on the same server a lot, this tab
 usually directly lets you rejoin a server, without needing to look through a
 list of any sort, and keeps working when minecraft.net is down.
 
-The "Direct" tab uses an url scheme that bypasses minecraft's login servers,
+The "Direct" tab uses an URL scheme that bypasses Minecraft's login servers,
 and thus still can be used to join any server when minecraft.net is down.
 
 "Options" and "Tools" let you do some black magic, there is, for example, a
@@ -45,8 +45,8 @@ that, when preformed by initiates, shows them exactly what went wrong.
 
 #### Charged-Miners
 
-Charged-miners plays very much like minecraft does. You can place and destroy
-blocks through clicks of the mousepointer, select blocks with middle-click,
+Charged-miners plays very much like Minecraft does. You can place and destroy
+blocks through clicks of the mouse pointer, select blocks with middle-click,
 walk around, chat, and so forth.
 
 But it also lets you do more, you can freely place special blocks like water
@@ -66,10 +66,10 @@ The following keys are usable:
  * `spacebar` `q` - Jump or fly up
  * `e` - fly down
  * `b` - pick block
- * `t` - chat
- * `/` - chat with '`/`' prefixed
+ * `t` - open chat
+ * `/` - open chat and type '`/`' prefix, to enter commands
  * `z` - start or stop flying
- * `x` - enable or disable noclip
+ * `x` - enable or disable no-clip mode
  * `shift` - run
  * `1`..`9` - pick block from hotbar
  * `o` - screenshot
@@ -82,13 +82,13 @@ The following keys are usable:
 Most of the configuration is done through the in-game esc-menu, or in the
 launcher. When you're in a server, pressing `ESC` brings up a menu where
 various game aspects can be changed, pressing `ESC` again or clicking "Close"
-closes the menu. ("Quit" closes Charged-miners alltogether!) If you prefer,
+closes the menu. ("Quit" closes Charged-miners altogether!) If you prefer,
 many of these options can also be changed through the custom `/client` command.
 
 #### Lag
 
-If you suffer from low framerates, there's a couple of things you can do. The
-biggest causes of a low framerate are the shadows and anti-aliasing (`aa`), it
+If you suffer from low frame rates, there's a couple of things you can do. The
+biggest causes of a low frame rate are the shadows and anti-aliasing (`aa`), it
 may also help to decrease the render distance, but Charged-miners usually
 handles far rendering much better than minecraft.net's client.
 
@@ -105,7 +105,7 @@ The file should be called `terrain.png` for a Modern Minecraft terrain.png and
 `terrain.classic.png` for a Classic Minecraft texture. This is important or
 things will look very odd.
 
-You can also replace the backgrund in the menu. It looks for two files
+You can also replace the background in the menu. It looks for two files
 `background.png` is centered on a black background in the middle of the screen.
 While `background.tiled.png` is tiled over the screen.
 
@@ -120,15 +120,15 @@ need you to log in.
 #### The game crashes when loading at 90%
 
 This seems to be common on older AMD cards, try updating your driver or enable
-"failsafe" from the launcher's "Options" tab.
+"failsafe" from the launcher's "Tools" tab.
 
-#### Your porblem not listed here?
+#### Your problem not listed here?
 
 If nothing here helps, get your help [directly from us](#support)!
 
 
 [Download]: https://github.com/downloads/Charged/Miners/ChargedMiners.exe "Download launcher here"
 [#charged-miners]: irc://irc.esper.net/charged-miners "Stay a while"
-[IRCWiki]: http://en.wikipedia.org/wiki/Irc "IRC on wikipedia"
+[IRCWiki]: http://en.wikipedia.org/wiki/Internet_Relay_Chat "IRC on Wikipedia"
 [Wiki]: http://wiki.vg/ChargedMinersClassic "Wiki"
 [MCPlay]: http://minecraft.net/classic/play "Play classic"
