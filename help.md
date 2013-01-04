@@ -127,7 +127,7 @@ This seems to be common on older AMD cards, try updating your driver or enable
 If nothing here helps, get your help [directly from us](#support)!
 
 
-[Download]: https://github.com/downloads/Charged/Miners/ChargedMiners.exe "Download launcher here"
+[Download]: https://cdn.charged-miners.com/launcher/ChargedMiners.exe "Download launcher here"
 [#charged-miners]: irc://irc.esper.net/charged-miners "Stay a while"
 [IRCWiki]: http://en.wikipedia.org/wiki/Internet_Relay_Chat "IRC on Wikipedia"
 [Wiki]: http://wiki.vg/ChargedMinersClassic "Wiki"
