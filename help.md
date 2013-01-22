@@ -9,7 +9,7 @@ first, as the most common issues are listed there.
 
 The most common issues, along with tips and tricks, are addressed in this
 page, but you can always contact the ones responsible for Charged Miners
-in the [IRC][IRCWiki] channel [#charged-miners][] on [Esper][]. You can
+in the [IRC][IRCWiki] channel [#charged-miners][] on [Esper][Esper]. You can
 also report bugs and add feature requests [here][Wiki].
 
 ### Installation
@@ -132,3 +132,4 @@ If nothing here helps, get your help [directly from us](#support)!
 [IRCWiki]: http://en.wikipedia.org/wiki/Internet_Relay_Chat "IRC on Wikipedia"
 [Wiki]: http://wiki.vg/ChargedMinersClassic "Wiki"
 [MCPlay]: http://minecraft.net/classic/play "Play classic"
+[Esper]: http://esper.net/ "Esper IRC network"
