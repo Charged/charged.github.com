@@ -17,7 +17,18 @@ features of the old client but is fully usable.</p>
 Texture Pack is <a href="http://www.minecraftforum.net/topic/966588-125-repeticraft-deluxe-v121/">Repeticraft</a>
 <p/>
 
-{% for post in site.tags.main %}
+<hr>
+<h3><a href="{{ site.tags.main.first.url }}">{{ site.tags.main.first.title }}</a></h3>
+{{ site.tags.main.first.content }}
+
+<hr>
+<h3><a href="/changelog.html">Charged Miners Changelog</a></h3>
+{% for post in site.tags.changelog %}
+  {{ post.date | date_to_string }} - <a href="{{ post.url }}">{{ post.title }}</a></h3><br/>
+{% endfor %}
+<p/>
+
+{% for post in site.tags.main offset:1 %}
   <hr>
   <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
   {{ post.content }}
