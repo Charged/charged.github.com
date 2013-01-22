@@ -1,0 +1,18 @@
+---
+layout: default
+title: Charged Miners Changelog
+---
+
+<h1><a href="/">Charged Miners</a></h1>
+<p>is a client for Minecraft Classic, it features: smooth graphics; realistic
+shadows; a in-game server list; automatic updating via a launcher; support for
+both modern and classic terrain textures. It is still does not have all the
+features of the old client but is fully usable.</p>
+
+<p>You can find help <a title='help' href="/help.html">here</a>.</p>
+
+{% for post in site.tags.changelog %}
+  <hr>
+  <h3>{{ post.date | date_to_string }} - <a href="{{ post.url }}">{{ post.title }}</a></h3>
+  {{ post.content }}
+{% endfor %}
