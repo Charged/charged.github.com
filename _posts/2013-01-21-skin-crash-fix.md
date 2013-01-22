@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Skin crash fix
+tags: [changelog]
 ---
 
 Minor game update was released today. You will be promoted to update next time you launch Charged-Miners Launcher. List of changes in this update:
