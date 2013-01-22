@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Weekend update 2
+tags: [main]
 ---
 
 Trying to do one of these every weekend.

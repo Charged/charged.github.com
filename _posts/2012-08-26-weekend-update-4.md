@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Weekend update 4
+tags: [main]
 ---
 
 Fixed some fallout from the move to the new startup code. Made the game a lot

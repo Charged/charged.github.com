@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Weekend update 7
+tags: [main]
 ---
 
 Again we need to thank Scoot for his continuing amizing work on the Launcher.

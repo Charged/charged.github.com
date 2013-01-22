@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Weekend update 1
+tags: [main]
 ---
 
 So while this isn't the first weekend update that I have made its the first

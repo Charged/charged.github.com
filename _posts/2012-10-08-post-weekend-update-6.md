@@ -1,6 +1,7 @@
 ---
 layout: post
-title: (Post) Weekend update 6
+title: Weekend update 6
+tags: [main]
 ---
 
 Its been a while and a lot of changes gone into Charged Miners. The

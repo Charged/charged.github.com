@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Weekend update 3
+tags: [main]
 ---
 
 The big change this weekend is closer to classic behaviour on various things,

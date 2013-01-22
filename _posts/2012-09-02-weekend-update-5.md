@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Weekend update 5
+tags: [main]
 ---
 
 Did lots and lots of code clean up and preperation for possible porting to D2.

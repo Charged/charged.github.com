@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Repo moved
+tags: [main]
 ---
 
 I moved the main repository for Charged Miners to be under the Charged

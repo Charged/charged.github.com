@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Launcher Update (you need it!)
+tags: [main]
 ---
 
 Thanks to GitHub.com breaking the download feature on their homepage that we

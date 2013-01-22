@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Launcher Updated
+tags: [main]
 ---
 
 Scoot has done a bunch of work on the launcher, totally rewamping the UI,
