@@ -849,3 +849,11 @@ section #title .credits.right {
     display: none;
   }
 }
+
+/* Custom (by bored fragmer) */
+::selection {
+  background: #7bad18; /* Safari */
+}
+::-moz-selection {
+	background: #7bad18; /* Firefox */
+}
